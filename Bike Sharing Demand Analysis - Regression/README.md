@@ -82,4 +82,4 @@ Random Forest
 
 Extra Tress
 
-Mean Squared Error: 0.3890
+Mean Squared Error: 0.48
